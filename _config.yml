@@ -172,10 +172,16 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  publications:
+  publications-journal:
     output: true
     permalink: /:collection/:path/
-  publications-journal:
+  publications-conference:
+    output: true
+    permalink: /:collection/:path/
+  publications-abstract:
+    output: true
+    permalink: /:collection/:path/
+  publications-thesis:
     output: true
     permalink: /:collection/:path/
   portfolio:
