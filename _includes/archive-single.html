@@ -62,7 +62,11 @@
 	  {% endif %}
 	  </p>
     {% elsif post.citation %}
-      <p> {{ post.citation }} </p>
+      <p> {{ post.citation }} 
+	  {% if post.presentation_type %}
+	    <i>({{ post.presentation_type }})</i>
+	  {% endif %}
+	  </p>
     {% elsif post.paperurl %}
       <p><a href=" {{ post.paperurl }} " target="_blank"><u>[Link]</u></a>
 	  {% if post.presentation_type %}
