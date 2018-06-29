@@ -1,6 +1,6 @@
 ---
 title: "Nonrigid free-form registration using landmark-based statistical deformation models"
-collection: publications
+collection: publications-conference
 permalink: 
 excerpt: 'Learning-based statistical free-form deformation model for registration'
 date: 2012-02-14

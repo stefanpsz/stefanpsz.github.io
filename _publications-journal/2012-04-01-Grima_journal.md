@@ -1,6 +1,6 @@
 ---
 title: "Indoor Mobile Robotics at Grima, PUC"
-collection: publications
+collection: publications-journal
 permalink: 
 excerpt: 'Description on all the work in robotics at GRIMA, PUC'
 date: 2012-04-01

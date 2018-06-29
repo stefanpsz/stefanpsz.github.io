@@ -215,10 +215,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _publications
+  # _publications-conference
   - scope:
       path: ""
-      type: publications
+      type: publications-conference
     values:
       layout: single
       author_profile: true
@@ -228,6 +228,24 @@ defaults:
   - scope:
       path: ""
       type: publications-journal
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _publications-abstract
+  - scope:
+      path: ""
+      type: publications-abstract
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _publications-thesis
+  - scope:
+      path: ""
+      type: publications-thesis
     values:
       layout: single
       author_profile: true

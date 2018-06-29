@@ -76,8 +76,30 @@ Skills
   
 Publications
 ======
+  <p><h5>Peer-reviewed journal publications</h5></p>
   <ul>
-  {% for post in site.publications reversed %}
+  {% for post in site.publications-journal reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}
+  </ul>
+
+  <p><h5>Conference publications</h5></p>
+  <ul>
+  {% for post in site.publications-conference reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}
+  </ul>
+
+  <p><h5>Abstracts</h5></p>
+  <ul>
+  {% for post in site.publications-abstract reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}
+  </ul>
+
+  <p><h5>Thesis</h5></p>
+  <ul>
+  {% for post in site.publications-thesis reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}
   </ul>

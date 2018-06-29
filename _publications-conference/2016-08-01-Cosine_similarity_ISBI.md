@@ -1,6 +1,6 @@
 ---
 title: "A robust similarity measure for nonrigid image registration with outliers"
-collection: publications
+collection: publications-conference
 permalink: 
 excerpt: 'Robust cosine similarity measure'
 date: 2014-04-01

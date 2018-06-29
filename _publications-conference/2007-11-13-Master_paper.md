@@ -1,6 +1,6 @@
 ---
 title: "Human detection in indoor environments using multiple visual cues and a mobile robot"
-collection: publications
+collection: publications-conference
 permalink: 
 excerpt: 'Paper describing the work I did during my Masters'
 date: 2007-11-13

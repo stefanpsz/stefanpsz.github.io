@@ -1,6 +1,6 @@
 ---
 title: "A robust similarity measure for volumetric image registration with outliers"
-collection: publications
+collection: publications-journal
 permalink: 
 excerpt: 'Robust cosine similarity measure'
 date: 2016-08-01

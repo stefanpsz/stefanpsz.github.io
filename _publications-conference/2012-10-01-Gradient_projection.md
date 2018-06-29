@@ -1,6 +1,6 @@
 ---
 title: "Gradient projection learning for parametric nonrigid registration"
-collection: publications
+collection: publications-conference
 permalink: 
 excerpt: 'Learning-based gradient projection method for optimisation of free-form deformation registration methods'
 date: 2012-10-01

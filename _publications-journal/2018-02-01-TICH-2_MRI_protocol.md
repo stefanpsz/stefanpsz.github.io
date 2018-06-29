@@ -1,6 +1,6 @@
 ---
 title: "Does tranexamic acid lead to changes in MRI measures of brain tissue health in patients with spontaneous intracerebral haemorrhage? Protocol for a MRI substudy nested within the double-blind randomised controlled TICH-2 trial"
-collection: publications
+collection: publications-journal
 permalink: 
 excerpt: 'Protocol for MRI substudy of the TICH-2 Clinical Trial'
 date: 2018-02-01
