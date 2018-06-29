@@ -95,7 +95,7 @@ Publications
   </div>
 
   <div>
-  <p><h4>Abstracts</h4></p>
+  <p><h4>Conference abstracts</h4></p>
   <ul>
   {% for post in site.publications-abstract reversed %}
     {% include archive-single-cv.html %}

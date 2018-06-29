@@ -30,7 +30,7 @@ author_profile: true
 </div>
 
 <div>
-<p><h3>Abstracts</h3></p>
+<p><h3>Conference abstracts</h3></p>
 <ol>
 {% for post in site.publications-abstract reversed %}
   <li>{% include archive-single.html %}</li>
