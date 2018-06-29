@@ -76,11 +76,11 @@ Skills
   
 Publications
 ======
-  <ol>
+  <ull>
   {% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}
-  </ol>
+  </ul>
   
 
 Teaching
