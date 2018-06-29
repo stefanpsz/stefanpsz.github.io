@@ -16,9 +16,3 @@ author_profile: true
   <li>{% include archive-single.html %}</li>
 {% endfor %}
 </ol>
-
-<ol>
-{% for post in site.publications-journal reversed %}
-  <li>{% include archive-single.html %}</li>
-{% endfor %}
-</ol>
