@@ -76,33 +76,41 @@ Skills
   
 Publications
 ======
-  <p><h5>Peer-reviewed journal publications</h5></p>
+  <div>
+  <p><h4>Peer-reviewed journal publications</h4></p>
   <ul>
   {% for post in site.publications-journal reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}
   </ul>
+  </div>
 
-  <p><h5>Conference publications</h5></p>
+  <div>
+  <p><h4>Conference publications</h4></p>
   <ul>
   {% for post in site.publications-conference reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}
   </ul>
+  </div>
 
-  <p><h5>Abstracts</h5></p>
+  <div>
+  <p><h4>Abstracts</h4></p>
   <ul>
   {% for post in site.publications-abstract reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}
   </ul>
+  </div>
 
-  <p><h5>Thesis</h5></p>
+  <div>
+  <p><h4>Thesis</h4></p>
   <ul>
   {% for post in site.publications-thesis reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}
   </ul>
+  </div>
   
 
 Teaching
