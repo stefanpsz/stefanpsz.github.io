@@ -15,8 +15,9 @@ where he was part of the <a href="http://grima.ing.puc.cl/" target="_blank">GRIM
 From October 2014 to November 2015, he was a Research Assistant in the <a href="http://biomedic.doc.ic.ac.uk/" target="_blank">Biomedical Image Analysis Group</a> at the same University, 
 working under the supervision of <a href="http://www.doc.ic.ac.uk/~dr" target="_blank">Prof. Daniel Rueckert</a>
 
-From December 2015, Stefan is a Research Fellow at the School of Medicine, University of Nottingham. Until May 2018 he worked with 
+From December 2015, Stefan is a Research Fellow at the <a href="https://www.nottingham.ac.uk/medicine/" target="_blank">School of Medicine</a>, 
+<a href="https://www.nottingham.ac.uk" target="_blank">University of Nottingham</a>. Until May 2018 he worked with 
 <a href="https://www.nottingham.ac.uk/medicine/people/rob.dineen" target="_blank">Dr. Rob Dineen</a> and 
-<a href="https://www.nottingham.ac.uk/medicine/people/nikola.sprigg" target="_blank">Prof. Nikola Sprigg</a> in the MRI sub-study within the <a href="http://tich-2.org" target="_blank">TICH-2</a>
-Randomised Clinical Trial. He now works with <a href="https://www.nottingham.ac.uk/paincentre/people/dorothee.auer" target="_blank">Prof. Dorothee Auer</a> and Dr. Rob Dineen as Image Analyst and 
-Imaging Database Architect using <a href="https://www.xnat.org/">XNAT.</a> 
+<a href="https://www.nottingham.ac.uk/medicine/people/nikola.sprigg" target="_blank">Prof. Nikola Sprigg</a> in the MRI sub-study within the 
+<a href="http://tich-2.org" target="_blank">TICH-2</a>Randomised Clinical Trial. He now works with <a href="https://www.nottingham.ac.uk/paincentre/people/dorothee.auer" target="_blank">
+Prof. Dorothee Auer</a> and Dr. Rob Dineen as Image Analyst and Imaging Database Architect using <a href="https://www.xnat.org/">XNAT.</a> 
