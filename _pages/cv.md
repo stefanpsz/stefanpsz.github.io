@@ -43,6 +43,7 @@ Training
 
 Awards
 ======
+* 2019: University of Nottingham International Collaboration Fund Award to finance a one-month research visit to Universidad de Valpara&iacute;so, Chile.
 * 2012: Runner-up in the Google PhD Poster Competition (2nd year category), Imperial College London.
 * 2009: CONICYT-Becas Chile scholarship for Doctoral studies, CONICYT.
   
