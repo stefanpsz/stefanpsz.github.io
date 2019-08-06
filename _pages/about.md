@@ -17,7 +17,7 @@ working under the supervision of <a href="http://www.doc.ic.ac.uk/~dr" target="_
 
 From December 2015, Stefan is a Research Fellow at the <a href="https://www.nottingham.ac.uk/medicine/" target="_blank">School of Medicine</a>, 
 <a href="https://www.nottingham.ac.uk" target="_blank">University of Nottingham</a>. Until May 2018 he worked with 
-<a href="https://www.nottingham.ac.uk/medicine/people/rob.dineen" target="_blank">Dr. Rob Dineen</a> and 
+<a href="https://www.nottingham.ac.uk/medicine/people/rob.dineen" target="_blank">Prof. Rob Dineen</a> and 
 <a href="https://www.nottingham.ac.uk/medicine/people/nikola.sprigg" target="_blank">Prof. Nikola Sprigg</a> in the MRI sub-study within the 
 <a href="http://tich-2.org" target="_blank">TICH-2</a> Randomised Clinical Trial. He now works with <a href="https://www.nottingham.ac.uk/paincentre/people/dorothee.auer" target="_blank">
-Prof. Dorothee Auer</a> and Dr. Rob Dineen as Image Analyst and Imaging Database Architect using <a href="https://www.xnat.org/">XNAT.</a> 
+Prof. Dorothee Auer</a> and Prof. Rob Dineen as Image Analyst and Imaging Database Architect using <a href="https://www.xnat.org/">XNAT.</a> 
