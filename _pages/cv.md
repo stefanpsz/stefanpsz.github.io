@@ -50,6 +50,13 @@ Awards
 
 Other
 ======
+* Grant reviews
+  * Projects for Initiation in Research 2019, FONDECYT
+* Journal paper reviews
+  * Computers in Biology and Medicine
+  * IEEE Journal of Biomedical and Heath Informatics
+  * IEEE Transactions on Medical Imaging
+  * Medical Physics
 * Member of the organising comitee and travel grants administrator
   * Chile-Global Seminars UK.
 
