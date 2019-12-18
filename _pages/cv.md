@@ -21,8 +21,8 @@ Work experience
 ======
 * 2015-: Research Fellow
   * The University of Nottingham, Nottingham, UK
-  * Supervisors: Dr. Rob Dineen and Prof. Nikola Sprigg (2015-2018)
-  * Supervisors: Dr. Rob Dineen and Prof. Dorothee Auer (2018-)
+  * Supervisors: Prof. Rob Dineen and Prof. Nikola Sprigg (2015-2018)
+  * Supervisors: Prof. Rob Dineen and Prof. Dorothee Auer (2018-)
 * 2014-2015: Research Assistant
   * Imperial College London, London, UK
   * Supervisor: Prof. Daniel Rueckert
