@@ -184,6 +184,9 @@ collections:
   publications-thesis:
     output: true
     permalink: /:collection/:path/
+  publications-other:
+    output: true
+    permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
@@ -252,6 +255,15 @@ defaults:
   - scope:
       path: ""
       type: publications-thesis
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _publications-other
+  - scope:
+      path: ""
+      type: publications-other
     values:
       layout: single
       author_profile: true

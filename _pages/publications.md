@@ -46,3 +46,13 @@ author_profile: true
 {% endfor %}
 </ol>
 </div>
+
+<div>
+<p><h3>Other</h3></p>
+<ol>
+{% for post in site.publications-other reversed %}
+  <li>{% include archive-single.html %}</li>
+{% endfor %}
+</ol>
+</div>
+

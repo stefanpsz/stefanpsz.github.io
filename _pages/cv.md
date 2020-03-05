@@ -120,6 +120,14 @@ Publications
   </ul>
   </div>
   
+  <div>
+  <p><h4>Other</h4></p>
+  <ul>
+  {% for post in site.publications-other reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}
+  </ul>
+  </div>
 
 Teaching
 ======
