@@ -11,14 +11,14 @@ redirect_from:
 
 
 Education
-======
+------
 * Ph.D in Medical Image Analysis, Imperial College London, 2015
 * M.Sc. in Engineering Sciences, Pontificia Universidad Cat&oacute;lica de Chile, 2007
 * Computer Engineering, Pontificia Universidad Cat&oacute;lica de Chile, 2007
 
 
 Work experience
-======
+------
 * 2015-: Research Fellow
   * The University of Nottingham, Nottingham, UK
   * Supervisors: Prof. Rob Dineen and Prof. Nikola Sprigg (2015-2018)
@@ -31,7 +31,7 @@ Work experience
   
 
 Training
-======
+------
 * Dec 2017: Preparing to Teach in Higher Education Certificate, University of Nottingham, UK
   * Nov 2017: Small Group Teaching
   * Jun 2017: Lecturing for Learning
@@ -42,14 +42,14 @@ Training
 
 
 Awards
-======
+------
 * 2019: University of Nottingham International Collaboration Fund Award to finance a one-month research visit to Universidad de Valpara&iacute;so, Chile.
 * 2012: Runner-up in the Google PhD Poster Competition (2nd year category), Imperial College London.
 * 2009: CONICYT-Becas Chile scholarship for Doctoral studies, CONICYT.
   
 
 Other
-======
+------
 * Grant reviews
   * Projects for Initiation in Research 2019, FONDECYT
 * Journal paper reviews
@@ -62,7 +62,7 @@ Other
 
 
 Skills
-======
+------
 * Operating Systems
   * GNU/Linux
   * MacOS
@@ -83,7 +83,7 @@ Skills
 
   
 Publications
-======
+------
   <div>
   <p><h4>Peer-reviewed journal publications</h4></p>
   <ul>
