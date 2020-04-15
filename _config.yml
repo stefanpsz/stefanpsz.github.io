@@ -11,7 +11,7 @@ title                    : "Stefan Pszczolkowski P. (Ph.D.)"
 title_separator          : "-"
 name                     : &name "Stefan Pszczolkowski P."
 description              : &description ""
-url                      : https://stefanpsz.github.io
+url                      : https://stefanpsz.me
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "stefanpsz/stefanpsz.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
