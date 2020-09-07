@@ -175,6 +175,9 @@ collections:
   publications-journal:
     output: true
     permalink: /:collection/:path/
+  publications-preprint:
+    output: true
+    permalink: /:collection/:path/
   publications-conference:
     output: true
     permalink: /:collection/:path/
