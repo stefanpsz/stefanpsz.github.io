@@ -21,6 +21,15 @@ author_profile: true
 </div>
 
 <div>
+<p><h3>Preprint publications</h3></p>
+<ol>
+{% for post in site.publications-preprint reversed %}
+  <li>{% include archive-single.html %}</li>
+{% endfor %}
+</ol>
+</div>
+
+<div>
 <p><h3>Conference publications</h3></p>
 <ol>
 {% for post in site.publications-conference reversed %}

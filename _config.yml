@@ -242,6 +242,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  # _publications-preprint
+  - scope:
+      path: ""
+      type: publications-preprint
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   # _publications-abstract
   - scope:
       path: ""

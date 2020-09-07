@@ -96,6 +96,15 @@ Publications
   </div>
 
   <div>
+  <p><h4>Preprint publications</h4></p>
+  <ul>
+  {% for post in site.publications-preprint reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}
+  </ul>
+  </div>
+
+  <div>
   <p><h4>Conference publications</h4></p>
   <ul>
   {% for post in site.publications-conference reversed %}
