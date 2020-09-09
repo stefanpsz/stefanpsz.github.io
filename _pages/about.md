@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Stefan Pszczolkowski obtained his Computer Engineering and MSc. degree from the <a href="https://www.uc.cl/" target="_blank">Pontifical Catholic University of Chile</a>, 
+Stefan Pszczolkowski obtained his Computer Engineering and MSc. degree from the <a href="https://www.uc.cl/en" target="_blank">Pontifical Catholic University of Chile</a>, 
 where he was part of the GRIMA group (now <a href="https://ialab.ing.puc.cl/" target="_blank">IALab</a>). He obtained his Ph.D. in Medical Image Analysis from the 
 <a href="https://www3.imperial.ac.uk/computing/" target="_blank">Department of Computing</a> at <a href="https://www3.imperial.ac.uk/" target="_blank">Imperial College London</a>. His Ph.D. advisor was <a href="https://www.doc.ic.ac.uk/~dr" target="_blank">Prof. Daniel Rueckert</a>. 
 
