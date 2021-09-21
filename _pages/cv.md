@@ -58,6 +58,7 @@ Other
   * IEEE Journal of Biomedical and Heath Informatics
   * IEEE Transactions on Medical Imaging
   * Medical Physics
+  * Scientific Reports
 * Member of the organising comitee and travel grants administrator
   * Chile-Global Seminars UK.
 
