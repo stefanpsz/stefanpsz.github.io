@@ -60,6 +60,12 @@ Other
   * IEEE Transactions on Medical Imaging
   * Medical Physics
   * Scientific Reports
+* Conference paper reviews
+  * MICCAI 2016
+  * CVPR 2013, 2012
+  * IPMI 2015, 2013
+  * DICTA 2012
+  * MMBIA 2012
 * Member of the organising comitee and travel grants administrator
   * Chile-Global Seminars UK.
 
