@@ -55,17 +55,20 @@ Other
 * Grant reviews
   * Projects for Initiation in Research 2019, FONDECYT
 * Journal paper reviews
+  * European Radiology
+  * Scientific Reports
   * Computers in Biology and Medicine
   * IEEE Journal of Biomedical and Heath Informatics
   * IEEE Transactions on Medical Imaging
   * Medical Physics
-  * Scientific Reports
 * Conference paper reviews
   * MICCAI 2016
   * CVPR 2013, 2012
   * IPMI 2015, 2013
   * DICTA 2012
   * MMBIA 2012
+* Other reviews
+  * International reviewer of new program "Bachelor in Computer Science", Pontificia Universidad Cat&oacute;lica de Chile, 2022
 * Member of the organising comitee and travel grants administrator
   * Chile-Global Seminars UK.
 
