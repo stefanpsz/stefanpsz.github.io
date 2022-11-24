@@ -45,7 +45,7 @@ Training
 
 Awards
 ------
-* 2022: Guarantors of Brain Travel Fund to attend SIPAIM 2022 in Valpara&iacute;so, Chile.
+* 2022: Guarantors of Brain partial Travel Fund to attend SIPAIM 2022 in Valpara&iacute;so, Chile.
 * 2019: University of Nottingham International Collaboration Fund Award to finance a one-month research visit to Universidad de Valpara&iacute;so, Chile.
 * 2012: Runner-up in the Google PhD Poster Competition (2nd year category), Imperial College London.
 * 2009: CONICYT-Becas Chile scholarship for Doctoral studies, CONICYT.
@@ -53,6 +53,8 @@ Awards
 
 Other
 ------
+* Appointments
+  * Visiting Professor of the Doctoral Program in Science and Engineering for Health, Universidad de Valpara&iacute;so, Chile (2022-)
 * Grant reviews
   * Projects for Initiation in Research 2019, FONDECYT
 * Journal paper reviews
@@ -68,7 +70,7 @@ Other
   * IPMI 2015, 2013
   * DICTA 2012
   * MMBIA 2012
-* Other reviews
+* Program reviews
   * International reviewer of new program "Bachelor in Computer Science", Pontificia Universidad Cat&oacute;lica de Chile, 2022
 * Member of the organising comitee and travel grants administrator
   * Chile-Global Seminars UK.
