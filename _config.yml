@@ -179,6 +179,9 @@ collections:
   publications-preprint:
     output: true
     permalink: /:collection/:path/
+  publications-commentary:
+    output: true
+    permalink: /:collection/:path/
   publications-conference:
     output: true
     permalink: /:collection/:path/
@@ -250,6 +253,15 @@ defaults:
   - scope:
       path: ""
       type: publications-preprint
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _publications-commentary
+  - scope:
+      path: ""
+      type: publications-commentary
     values:
       layout: single
       author_profile: true

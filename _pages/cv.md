@@ -56,7 +56,8 @@ Other
 * Appointments
   * Visiting Professor of the Doctoral Program in Science and Engineering for Health, Universidad de Valpara&iacute;so, Chile (2022-)
 * Grant reviews
-  * Projects for Initiation in Research 2019, FONDECYT
+  * Projects for Initiation in Research 2019, FONDECYT, Chile
+  * MRC Research Grant, UKRI, United Kingdom
 * Journal paper reviews
   * European Radiology
   * Scientific Reports
@@ -113,6 +114,15 @@ Publications
   <p><h4>Preprint publications</h4></p>
   <ul>
   {% for post in site.publications-preprint reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}
+  </ul>
+  </div>
+
+  <div>
+  <p><h4>Commentaries</h4></p>
+  <ul>
+  {% for post in site.publications-commentary reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}
   </ul>

@@ -30,6 +30,15 @@ author_profile: true
 </div>
 
 <div>
+<p><h3>Commentaries</h3></p>
+<ol>
+{% for post in site.publications-commentary reversed %}
+  <li>{% include archive-single.html %}</li>
+{% endfor %}
+</ol>
+</div>
+
+<div>
 <p><h3>Conference publications</h3></p>
 <ol>
 {% for post in site.publications-conference reversed %}
