@@ -21,9 +21,6 @@ Work experience
 ------
 * 2015-: Research Fellow
   * The University of Nottingham, Nottingham, UK
-  * Line Managers: Prof. Rob Dineen and Prof. Nikola Sprigg (2015-2018)
-  * Line Managers: Prof. Rob Dineen and Prof. Dorothee Auer (2018-2020)
-  * Line Manager: Dr. Chris Tench (2020-)
 * 2014-2015: Research Assistant
   * Imperial College London, London, UK
   * Supervisor: Prof. Daniel Rueckert
