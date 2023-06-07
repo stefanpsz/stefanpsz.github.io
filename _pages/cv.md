@@ -48,7 +48,7 @@ Grants
 * 2023: University of Nottingham Precision Imaging Beacon Stroke Pump-Priming Fund (&pound;4,010) 
 * 2023: University of Nottingham School of Medicine Research and Knowledge Exchange Committee Conference Fund to attend OHBM 2023 in Montreal, Canada (&pound;700)
 * 2022: Guarantors of Brain partial Travel Fund to attend SIPAIM 2022 in Valpara&iacute;so, Chile. (&pound;800)
-* 2019: University of Nottingham International Collaboration Fund Award to finance a one-month research visit to Universidad de Valpara&iacute;so, Chile. (£pound;3,086.88)
+* 2019: University of Nottingham International Collaboration Fund Award to finance a one-month research visit to Universidad de Valpara&iacute;so, Chile. (&pound;3,086.88)
 * 2009: CONICYT-Becas Chile scholarship for Doctoral studies, CONICYT.
 
 
