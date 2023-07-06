@@ -62,6 +62,7 @@ Other
   * Projects for Initiation in Research 2019, FONDECYT, Chile
   * MRC Research Grant, UKRI, United Kingdom
 * Journal paper reviews
+  * Frontiers in Neuroscience
   * European Radiology
   * Scientific Reports
   * Computers in Biology and Medicine
