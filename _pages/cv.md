@@ -66,7 +66,7 @@ Other
   * European Radiology
   * Scientific Reports
   * Computers in Biology and Medicine
-  * IEEE Journal of Biomedical and Heath Informatics
+  * IEEE Journal of Biomedical and Health Informatics
   * IEEE Transactions on Medical Imaging
   * Medical Physics
 * Conference paper reviews
