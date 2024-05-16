@@ -42,7 +42,7 @@ Training
 
 Grants and awards
 ------
-* 2024: Guarantors of Brain partial Travel Fund to attend OHBM 2024 in Seoul, South Korea. (&pound;1000)
+* 2024: Guarantors of Brain partial Travel Fund to attend OHBM 2024 in Seoul, South Korea. (&pound;1,000)
 * 2023: University of Nottingham Precision Imaging Beacon Stroke Pump-Priming Fund (&pound;4,010) 
 * 2023: University of Nottingham School of Medicine Research and Knowledge Exchange Committee Conference Fund to attend OHBM 2023 in Montreal, Canada (&pound;700)
 * 2022: Guarantors of Brain partial Travel Fund to attend SIPAIM 2022 in Valpara&iacute;so, Chile. (&pound;800)
