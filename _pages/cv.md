@@ -35,6 +35,7 @@ Training
   * Jun 2017: Lecturing for Learning
   * May 2017: Foundations of Teaching in Higher Education
   * Apr 2017: Preparing to Teach in Higher Education
+* May 2024: GCP (Good Clinical Practice) refresher, NIHR, UK 
 * Feb 2021: GCP (Good Clinical Practice) refresher, NIHR, UK
 * Sep 2017: GCP (Good Clinical Practice) refresher, NIHR, UK
 * Dec 2015: GCP (Good Clinical Practice), NIHR, UK
