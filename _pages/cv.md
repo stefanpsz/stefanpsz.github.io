@@ -52,6 +52,14 @@ Grants and awards
 * 2009: CONICYT-Becas Chile scholarship for Doctoral studies, CONICYT.
   
 
+Invited talks
+------
+
+* 28th Jun 2024: "Clinical applications of Medical Image Analysis in Intracerebral Haemorrhage", Korea University, South Korea (in-person)
+* 17th Oct 2023: "Clinical applications of Medical Image Analysis in Intracerebral Haemorrhage and Ataxia Telangiectasia", iHealth, Chile (online)
+* 20th Nov 2022: "Aplicaciones cl&iacute;nicas de la Ingenier&iacute;a mediante el procesamiento de im&aacute;genes m&eacute;dicas" (In Spanish), Universidad de Valpara&iacute;so, Chile (in-person)
+
+
 Other
 ------
 * Appointments
@@ -60,6 +68,7 @@ Other
   * Projects for Initiation in Research 2019, FONDECYT, Chile
   * MRC Research Grant, UKRI, United Kingdom
 * Journal paper reviews
+  * Journal of Critical Care
   * Journal of Digital Imaging
   * Frontiers in Neuroscience
   * European Radiology
