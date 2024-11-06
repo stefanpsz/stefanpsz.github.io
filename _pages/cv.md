@@ -55,7 +55,7 @@ Grants and awards
 Invited talks
 ------
 
-* 24th Oct 2024L "Aplicaciones en medicina de la IA basada en im&aacute;genes" (In Spanish), Universidad Mayor, Chile (in-person)
+* 24th Oct 2024: "Aplicaciones en medicina de la IA basada en im&aacute;genes" (In Spanish), Universidad Mayor, Chile (in-person)
 * 28th Jun 2024: "Clinical applications of Medical Image Analysis in Intracerebral Haemorrhage", Korea University, South Korea (in-person)
 * 17th Oct 2023: "Clinical applications of Medical Image Analysis in Intracerebral Haemorrhage and Ataxia Telangiectasia", iHealth, Chile (online)
 * 20th Nov 2022: "Aplicaciones cl&iacute;nicas de la Ingenier&iacute;a mediante el procesamiento de im&aacute;genes m&eacute;dicas" (In Spanish), Universidad de Valpara&iacute;so, Chile (in-person)
