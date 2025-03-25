@@ -30,6 +30,7 @@ Work experience
 
 Training
 ------
+* Feb-Apr 2025: Researcher Academy ECR Leadership Programme, University of Nottingham, UK
 * Dec 2017: Preparing to Teach in Higher Education Certificate, University of Nottingham, UK
   * Nov 2017: Small Group Teaching
   * Jun 2017: Lecturing for Learning
