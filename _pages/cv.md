@@ -19,7 +19,9 @@ Education
 
 Work experience
 ------
-* 2015-: Research Fellow
+* 2026-: Software and Data Engineer
+  * Oxford University Hospitals NHS Trust, Oxford, UK
+* 2015-2026: Research Fellow
   * The University of Nottingham, Nottingham, UK
 * 2014-2015: Research Assistant
   * Imperial College London, London, UK

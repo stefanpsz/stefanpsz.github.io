@@ -14,12 +14,12 @@ where he was part of the GRIMA group (now <a href="https://ialab.ing.puc.cl/" ta
 
 From October 2014 to November 2015, he was a Research Assistant in the <a href="https://biomedic.doc.ic.ac.uk/" target="_blank">Biomedical Image Analysis Group</a> at the same University.
 
-From December 2015, Stefan is a Research Fellow at the <a href="https://www.nottingham.ac.uk/medicine/" target="_blank">School of Medicine</a>, 
+In December 2015, Stefan started a Research Fellow position at the <a href="https://www.nottingham.ac.uk/medicine/" target="_blank">School of Medicine</a>, 
 <a href="https://www.nottingham.ac.uk" target="_blank">University of Nottingham</a>, where he worked with 
 <a href="https://www.nottingham.ac.uk/medicine/people/rob.dineen" target="_blank">Prof. Rob Dineen</a> and 
 <a href="https://www.nottingham.ac.uk/medicine/people/nikola.sprigg" target="_blank">Prof. Nikola Sprigg</a> in the MRI sub-study within the <a href="https://tich-2.org" target="_blank">TICH-2</a> Randomised Clinical Trial until May 2018. 
 
-Between June 2018 and May 2020, he worked with <a href="https://www.nottingham.ac.uk/paincentre/people/dorothee.auer" target="_blank">Prof. Dorothee Auer</a> and Prof. Rob Dineen as Image Analyst and Imaging Database Architect using <a href="https://www.xnat.org/">XNAT</a>. During that time, he also worked on the BRIGhTMIND randomised controlled trial of Transcraneal Magnetic Stimulation for treatment-resistant depression. 
+Between June 2018 and May 2020, he continued working at the University of Nottingham with <a href="https://www.nottingham.ac.uk/paincentre/people/dorothee.auer" target="_blank">Prof. Dorothee Auer</a> and Prof. Rob Dineen as an Image Analyst and Imaging Database Architect using <a href="https://www.xnat.org/">XNAT</a>. During that time, he also worked on the BRIGhTMIND randomised controlled trial of Transcraneal Magnetic Stimulation for treatment-resistant depression. 
 
 Between June 2020 and June 2026, he worked as a Research Fellow at the <a href="https://nottinghambrc.nihr.ac.uk" target="_blank">NIHR Nottingham Biomedical Research Centre</a> developing medical image-based analyses in conditions such as Parkinson's Disease, Stroke, Ataxia-Telangiectasia and Depression.
 
